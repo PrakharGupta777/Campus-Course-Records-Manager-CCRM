@@ -86,9 +86,6 @@ CCRM provides a simple command-line interface (CLI) for administrators to handle
 4. Import the CCRM project:  
     `File` → `Import` → `Existing Projects into Workspace`
 
-*Screenshots:  
-(Insert your screenshots here for each step)*
-
 ---
 
 ## 🗺️ Mapping Table: Syllabus Topic → File/Class/Method
@@ -170,3 +167,4 @@ Here is a brief overview of what each menu option does:
 15. Export all data: Saves all current student, course, and enrollment data to a single export.txt file.
 16. Create a backup: Creates a backup of your data in the exports directory.
 17. Exit: Closes the application.
+
