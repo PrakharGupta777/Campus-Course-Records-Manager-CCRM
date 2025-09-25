@@ -1,0 +1,8 @@
+=== Courses ===
+CSE2006,JAVA Programming,3,Sanat Jain,true
+
+=== Students ===
+1,Prakhar Gupta, 24BCE11168,true
+
+=== Enrollments ===
+1,CSE2006,S
