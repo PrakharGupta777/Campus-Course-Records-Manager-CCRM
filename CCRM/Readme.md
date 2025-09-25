@@ -86,9 +86,6 @@ CCRM provides a simple command-line interface (CLI) for administrators to handle
 4. Import the CCRM project:  
     `File` → `Import` → `Existing Projects into Workspace`
 
-*Screenshots:  
-(Insert your screenshots here for each step)*
-
 ---
 
 ## 🗺️ Mapping Table: Syllabus Topic → File/Class/Method
@@ -124,5 +121,6 @@ CCRM provides a simple command-line interface (CLI) for administrators to handle
 
 - **Language:** Java  
 - **Platform:** Java SE (Standard Edition)
+
 
 ---
